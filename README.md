@@ -51,21 +51,27 @@ Several visualizations were generated to gain insights into the dataset, includi
 1. **Hotel Types**: Distribution of bookings across different hotel types.
 
 ![Figure: Hotel Type Distribution](Images/HotelType.png)
+
 2. **Meal Preferences**: Distribution of meal types among customers.
 
 ![Figure: Meal Preferences](Images/MealType.png)
+
 3. **Top Countries**: Countries with the most bookings and the highest cancellation rates.
 
 ![Figure: Top Countries](Images/TopCountries.png)
+
 4. **Lead Time**: Distribution of lead time (days between booking and arrival).
 
 ![Figure: Lead Time](Images/LeadTime.png)
+
 5. **Monthly Bookings**: Trends in booking volume over the year.
 
 ![Figure: Monthly Bookings](Images/MonthlyBookings.png)
+
 6. **Average Daily Rate**: Trends in the average daily rate over time.
 
 ![Figure: Average Daily Rate](Images/ADR.png)
+
 7. **Cancellation Rates**: The proportion of bookings that were canceled.
 
 ![Figure: Cencellation Status](Images/Cancellation_Status.png)
