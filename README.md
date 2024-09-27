@@ -115,6 +115,8 @@ Grid search was used to find the optimal value for `n_neighbors`:
 - Tested values: `[1, 3, 5]`.
 - The best value for `n_neighbors` was found to be `1`, with a score of `86%`.
 
+![Figure: BestParameters](Images/BestParams.png)
+
 ---
 
 ## Conclusion
