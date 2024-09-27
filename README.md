@@ -56,7 +56,7 @@ Several visualizations were generated to gain insights into the dataset, includi
 
 ![Figure: Meal Preferences](Images/MealType.png)
 
-3. **Top Countries**: Countries with the most bookings and the highest cancellation rates. ('GBR', 0)('PRT', 1)('USA', 2)('ESP', 3)('IRL', 4)('DEU', 10)('FRA', 11)('BEL', 12)('ITA', 16)('BRA', 23)
+3. **Top Countries**: Countries with the most bookings. ('GBR', 0)('PRT', 1)('USA', 2)('ESP', 3)('IRL', 4)('DEU', 10)('FRA', 11)('BEL', 12)('ITA', 16)('BRA', 23)
 
 ![Figure: Top Countries](Images/TopCountries.png)
 
