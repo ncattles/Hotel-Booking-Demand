@@ -25,6 +25,7 @@ This project involves data preprocessing and the development of a machine learni
 ## Dataset
 The dataset used in this project is `hotel_bookings.csv`, which contains booking details such as hotel type, lead time, number of guests, and whether the booking was canceled. The target variable is `is_canceled`, which indicates if the booking was canceled (`1`) or not (`0`).
 
+Dataset Link: https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
 ---
 
 ## Data Preprocessing
