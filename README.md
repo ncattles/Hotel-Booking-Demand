@@ -95,11 +95,17 @@ Several visualizations were generated to gain insights into the dataset, includi
 ### 1. **Accuracy**: 
    - The model achieved an accuracy of `85%` on the test set.
 
+![Figure: Accuracy](Images/Accuracy.png)
+
 ### 2. **Confusion Matrix**:
    - The confusion matrix was generated to evaluate the number of true positives, true negatives, false positives, and false negatives.
 
+![Figure: ConfusionMatrix](Images/ConfusionMatrix.png)
+
 ### 3. **Classification Report**:
    - Precision, recall, and F1-score were reported for both classes (canceled and not canceled).
+
+![Figure: ClassificationReport](Images/ClassificationReport.png)
 
 ---
 
