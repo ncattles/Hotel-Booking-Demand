@@ -48,19 +48,19 @@ The dataset used in this project is `hotel_bookings.csv`, which contains booking
 ## Exploratory Data Analysis
 Several visualizations were generated to gain insights into the dataset, including:
 
-1. **Hotel Types**: Distribution of bookings across different hotel types.
+1. **Hotel Types**: Distribution of bookings across different hotel types. ('Resort Hotel': 0, 'City Hotel': 1)
 
 ![Figure: Hotel Type Distribution](Images/HotelType.png)
 
-2. **Meal Preferences**: Distribution of meal types among customers.
+2. **Meal Preferences**: Distribution of meal types among customers. ('BB (bed and breakfast)':0, 'FB (full board)':1, 'HB (half board)':2, 'SC (self catering)':3)
 
 ![Figure: Meal Preferences](Images/MealType.png)
 
-3. **Top Countries**: Countries with the most bookings and the highest cancellation rates.
+3. **Top Countries**: Countries with the most bookings and the highest cancellation rates. ('GBR', 0)('PRT', 1)('USA', 2)('ESP', 3)('IRL', 4)('DEU', 10)('FRA', 11)('BEL', 12)('ITA', 16)('BRA', 23)
 
 ![Figure: Top Countries](Images/TopCountries.png)
 
-4. **Lead Time**: Distribution of lead time (days between booking and arrival).
+4. **Lead Time**: Distribution of lead time (days between booking and arrival). (Number of days that elapsed between the entering date of the booking and the arrival date)
 
 ![Figure: Lead Time](Images/LeadTime.png)
 
@@ -68,11 +68,11 @@ Several visualizations were generated to gain insights into the dataset, includi
 
 ![Figure: Monthly Bookings](Images/MonthlyBookings.png)
 
-6. **Average Daily Rate**: Trends in the average daily rate over time.
+6. **Average Daily Rate**: Trends in the average daily rate over time. (the measure of the average paid for rooms sold in a given time period)
 
 ![Figure: Average Daily Rate](Images/ADR.png)
 
-7. **Cancellation Rates**: The proportion of bookings that were canceled.
+7. **Cancellation Rates**: The proportion of bookings that were canceled. (Value indicating if the booking was canceled (1) or not (0))
 
 ![Figure: Cencellation Status](Images/Cancellation_Status.png)
 
